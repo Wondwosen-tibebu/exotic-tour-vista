@@ -1,0 +1,28 @@
+{
+  "widgets": [
+    {
+      "widgetType": "heading",
+      "settings": {
+        "title": "Adventure Awaits You",
+        "typography_font_size": "80px",
+        "color": "#ffffff"
+      }
+    },
+    {
+      "widgetType": "button",
+      "settings": {
+        "text": "Browse Tours",
+        "background_color": "#10b981",
+        "border_radius": "50px"
+      }
+    },
+    {
+      "widgetType": "image-box",
+      "settings": {
+        "image": "about_hero.webp",
+        "title": "Global Reach",
+        "description": "Over 50 countries and 500+ unique tour packages."
+      }
+    }
+  ]
+}

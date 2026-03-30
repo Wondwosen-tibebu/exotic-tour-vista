@@ -1,0 +1,60 @@
+{
+  "name": "TravelKit - Elementor Template Kit",
+  "version": "1.0.0",
+  "templates": [
+    {
+      "id": "home-page",
+      "title": "Home Page",
+      "type": "page",
+      "thumbnail": "home_hero.webp"
+    },
+    {
+      "id": "about-page",
+      "title": "About Page",
+      "type": "page",
+      "thumbnail": "about_hero.webp"
+    },
+    {
+      "id": "tours-archive",
+      "title": "Tours Archive",
+      "type": "archive",
+      "thumbnail": "tours_hero.webp"
+    },
+    {
+      "id": "destinations-archive",
+      "title": "Destinations Archive",
+      "type": "archive",
+      "thumbnail": "destinations_hero.webp"
+    },
+    {
+      "id": "contact-page",
+      "title": "Contact Page",
+      "type": "page",
+      "thumbnail": "contact_hero.webp"
+    },
+    {
+      "id": "site-header",
+      "title": "Main Header",
+      "type": "header",
+      "thumbnail": "navbar.webp"
+    },
+    {
+      "id": "site-footer",
+      "title": "Main Footer",
+      "type": "footer",
+      "thumbnail": "footer.webp"
+    }
+  ],
+  "style_settings": {
+    "colors": {
+      "primary": "#10b981",
+      "secondary": "#064e3b",
+      "text": "#27272a",
+      "accent": "#f97316"
+    },
+    "typography": {
+      "heading": "Inter, sans-serif",
+      "body": "Inter, sans-serif"
+    }
+  }
+}
